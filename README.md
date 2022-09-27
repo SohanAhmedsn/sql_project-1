@@ -6,7 +6,9 @@ They want create a database system to keep records of their car details. Also, t
 customers’ information and car booking.
 A sample data is available for better understanding 
 Card models and manufacturers record.
-Some key implementation requirements:
+
+
+##Some key implementation requirements:
 ▪ A procedural system to create car booking with a car availability checking system
 ▪ A procedural way of getting bookings within a date range
 ▪ A procedural way getting bookings of the current month.
